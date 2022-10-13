@@ -1,1 +1,1 @@
-This script print the current working dir
+Lists directory contents
