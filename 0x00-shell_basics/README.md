@@ -1,1 +1,1 @@
-Lists directory contents
+Change to home directory
