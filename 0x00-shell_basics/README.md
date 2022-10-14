@@ -1,1 +1,1 @@
-deleting files iin separate directory
+deleting directory
