@@ -1,1 +1,1 @@
-Moving file from one folder to another
+deleting files iin separate directory
