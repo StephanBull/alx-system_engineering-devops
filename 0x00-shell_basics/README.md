@@ -1,1 +1,1 @@
-Display in long list
+Longlist and hidden files
