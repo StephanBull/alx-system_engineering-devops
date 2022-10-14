@@ -1,1 +1,1 @@
-Change to home directory
+Display in long list
