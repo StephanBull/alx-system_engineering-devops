@@ -1,1 +1,1 @@
-Listing directories contents
+ File type
