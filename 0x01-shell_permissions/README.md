@@ -1,1 +1,1 @@
-Changing group ownership
+Changing owner and group
