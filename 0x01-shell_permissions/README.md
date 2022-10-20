@@ -1,1 +1,1 @@
-Give execute permissions to all
+Mixed permissions
