@@ -1,1 +1,1 @@
-Multiple permissions
+Give execute permissions to all
