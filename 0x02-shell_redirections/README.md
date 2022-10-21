@@ -1,1 +1,1 @@
-Std output
+Duplicate last line
