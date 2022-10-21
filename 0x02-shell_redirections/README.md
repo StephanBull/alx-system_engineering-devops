@@ -1,1 +1,1 @@
-Do not contain bin
+lines starting with a letter
