@@ -1,1 +1,1 @@
-lines starting with a letter
+ Using the tr function
