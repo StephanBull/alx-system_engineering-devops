@@ -1,1 +1,1 @@
-Duplicate last line
+Find and delete
