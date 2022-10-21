@@ -1,1 +1,1 @@
- Create a file with special xters
+Std output
