@@ -1,1 +1,1 @@
-Display fast 10 lines
+Display nth line
