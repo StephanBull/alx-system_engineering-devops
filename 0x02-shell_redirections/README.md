@@ -1,1 +1,1 @@
-Find and delete
+Count of directories and subs
