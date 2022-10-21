@@ -1,1 +1,1 @@
- Using the tr function
+Delete xters from a a line
