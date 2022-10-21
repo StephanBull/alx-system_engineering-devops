@@ -1,1 +1,1 @@
- Patterns and lines after
+Do not contain bin
