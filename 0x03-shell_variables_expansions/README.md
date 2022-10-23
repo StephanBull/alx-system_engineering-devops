@@ -1,1 +1,1 @@
-Count directories in path
+ List environmental variables
