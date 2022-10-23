@@ -1,1 +1,1 @@
-Shell expansions & variable
+Print hello user on current user
