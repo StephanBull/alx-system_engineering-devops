@@ -1,1 +1,1 @@
-Using path to set a directory
+Count directories in path
