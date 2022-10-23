@@ -1,1 +1,1 @@
-Print hello user on current user
+Using path to set a directory
