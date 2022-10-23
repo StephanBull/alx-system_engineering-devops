@@ -1,1 +1,1 @@
- List environmental variables
+ Lists global, local and functions
