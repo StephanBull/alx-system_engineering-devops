@@ -1,1 +1,1 @@
-Binary variables
+Combinations
