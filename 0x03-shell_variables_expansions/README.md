@@ -1,1 +1,1 @@
-Arithmetics
+Exponentiation
