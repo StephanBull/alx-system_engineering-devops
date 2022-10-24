@@ -1,1 +1,1 @@
-Exponentiation
+Binary variables
